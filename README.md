@@ -1,3 +1,3 @@
 # ObstacleGame
 
-A simple unity game 
+unity game 
